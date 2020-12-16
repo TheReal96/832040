@@ -1,4 +1,4 @@
-# 8320040 (Fibonacci 2048)
+# 832040 (Fibonacci 2048)
 
 This game is a modification of Gabriele Cirulli's well-known [2048](http://gabrielecirulli.github.io/2048/) game, using the Fibonacci Sequence.
 
