@@ -516,10 +516,10 @@ hr {
     color: #f9f9f2;
     background: #00ff7f;
     box-shadow: 0 0 30px 10px rgba(0, 255, 127, 0.66666), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
-    font-size: 30px; }
+    font-size: 35px; }
     @media screen and (max-width: 520px) {
       .tile.tile-28657 .tile-inner {
-        font-size: 12px; } }
+        font-size: 15px; } }
   .tile.tile-46368 .tile-inner {
     color: #f9f9f2;
     background: #007fff;
